@@ -1,2 +1,2 @@
-# snmp-message-handler-api
-Projeto com API para tratamento e envio de mensagens SNMP para disciplina de Gerência de Redes
+# spring-backend-test
+Simple spring web project using hibernate and mysql database
